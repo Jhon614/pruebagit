@@ -1,1 +1,12 @@
 Suscribete jaja
+
+Comandos git:
+ git init
+git config user.name "Jhon614"
+git config user.email "lx03155@innovaccion.mx"
+git remote add origin "https://github.com/Jhon614/pruebagit.git"
+git status
+git add notas.txt
+git status
+git commit -m "estoy seguro de este commit"
+git push -u origin master
